@@ -100,17 +100,8 @@ public class RandomGenerator {
 		characters.add("Kaizer");
 		characters.add("Joanne");
 		characters.add("Iggy");
+		characters.add("Kaoru");
 		characters.add("Koen");
-		characters.add("Hundemer");
-		characters.add("Roth");
-		characters.add("Ragan");
-		characters.add("Pomerantz");
-		characters.add("Jaksic");
-		characters.add("Akemi");
-		characters.add("Melanie");
-		characters.add("Goren");
-		characters.add("Darmon");
-		characters.add("Nave");
 		
 		return generateRandom(characters);
 	}
